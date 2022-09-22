@@ -1,15 +1,14 @@
 ### Hi there 👋
 
 <!--
-**ClaudiannaSilva/ClaudiannaSilva** é um repositório ✨ _special_ ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
+**LorayneG/LorayneG** é um repositório ✨ _special_ ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
 
 
 
-- 🔭 Atualmente estou estudando.
-- 🌱 Atualmente estou aprendendo Banco de dados, Laravel...
-- 🤔 Estou procurando ajuda com estágio.
+- 🔭 Atualmente.
+- 🌱 Atualmente estou aprendendo PHP, HTML, Banco de dados, Laravel...
+- 🤔 ...
 - 💬 Quer fala comigo? loraynegama@gmail.com
-- 😄 Pronomes: ela/dela
 - ⚡ Curiosidade: Luta, exercícios, praia e cinema!
 -->
 <div>
@@ -35,10 +34,7 @@
 
 <div> 
    <a href="https://www.linkedin.com/in/lorayne-gama-39a394236//feed/?trk=homepage-basic_google-one-tap-submit/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:Claudianasaraiva233@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto: loraynegama@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://instagram.com/looh_lorayne?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/lorayne.gama target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-   <a href="https://discord.com/channels/DianaSilva#4388" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  
-  ![Snake animation](https://github.com/Bruno21santiago/Bruno21santiago/blob/main/github-user-contribution.svg)
 </div>
