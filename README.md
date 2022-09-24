@@ -1,4 +1,4 @@
-### Hi there 👋
+### Oi. Eu sou a Lorayne Gama, e este é o meu perfil!👋
 
 <!--
 **LorayneG/LorayneG** é um repositório ✨ _special_ ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
